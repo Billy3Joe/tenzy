@@ -3,8 +3,8 @@
 
 # Nom Participants
 
-BILLY JOE KOM KAMZE 
-MOHAMMED AMINE ZERROUKI
+## BILLY JOE KOM KAMZE 
+## MOHAMMED AMINE ZERROUKI
   
 Create a **`Tenzies Game`** using `ReactJS`
 
